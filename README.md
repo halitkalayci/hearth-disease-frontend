@@ -13,4 +13,7 @@
 
 - "npm install -g next"
 
-çalıştırınız.
+
+# Gereksinimler
+
+- nodejs > v20.x.x
